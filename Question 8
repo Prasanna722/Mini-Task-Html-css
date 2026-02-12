@@ -1,0 +1,11 @@
+<form>
+    <input type="text" value="Prasanna"><br><br>
+    <input type="email" value="example@gmail.com"><br><br>
+    <input type="password" value="123456"><br><br>
+    <input type="number" value="25"><br><br>
+    <input type="date" value="2026-01-01"><br><br>
+    <input type="color" value="#ff0000"><br><br>
+    <input type="range" value="50"><br><br>
+    <input type="checkbox" checked> Accept Terms<br><br>
+    <input type="radio" checked> Male<br><br>
+</form>
