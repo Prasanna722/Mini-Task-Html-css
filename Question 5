@@ -1,0 +1,9 @@
+<form>
+    <label>Employee Type:</label><br>
+
+    <input type="radio" name="employeeType" value="salaried" required>
+    <label>Salaried</label><br>
+
+    <input type="radio" name="employeeType" value="business">
+    <label>Own Business</label>
+</form>
